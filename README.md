@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **linux , cybersecurity , socks ,Penetration Test**
 
-- 📫 How to reach me **navee1525@gmail.com**
+- 📫 How to reach me **naveentito1@gmail.com**
 
 - ⚡ Fun fact **Dope hacker ⚡⚜ DN'T GIVE A F:-K OUT OF MYSLF ╭∩╮ YOUNG WILD AND FREE ●_● MUSIC FREAK 🔸️🔹️☠**
 
