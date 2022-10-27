@@ -1,5 +1,5 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/navee1525.png" alt="TryHackMe">
 ![MasterHead](https://media2.giphy.com/headers/DeficienciaVisual/wpwvV6pWlfeE.gif)
+<img src="https://tryhackme-badges.s3.amazonaws.com/navee1525.png" alt="TryHackMe">
 <h1 align="center">Hi 👋, I'm NAVEEN TITO</h1>
 <h3 align="center">A passionate Network Security Professional & Linux administrator from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.hackread.com/wp-content/uploads/2016/03/artificially-intelligent-hackers-gif.gif">
