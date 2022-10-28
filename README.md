@@ -1,5 +1,5 @@
 ![MasterHead](https://media2.giphy.com/headers/DeficienciaVisual/wpwvV6pWlfeE.gif)
-<script src="https://tryhackme.com/badge/1435780"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/navee1525.png" alt="TryHackMe">
 <h1 align="center">Hi 👋, I'm NAVEEN TITO</h1>
 <h3 align="center">A passionate Network Security Professional & Linux administrator from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.hackread.com/wp-content/uploads/2016/03/artificially-intelligent-hackers-gif.gif">
@@ -23,6 +23,7 @@
 - 📄 Know about my experiences [github.com/naveentito](github.com/naveentito)
 
 - ⚡ Fun fact **Dope hacker ⚡⚜ DN'T GIVE A F:-K OUT OF MYSLF ╭∩╮ YOUNG WILD AND FREE ●_● MUSIC FREAK 🔸️🔹️☠**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
