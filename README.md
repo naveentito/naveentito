@@ -7,6 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveentito&label=Profile%20views&color=0e75b6&style=flat" alt="naveentito" /> </p>
+https://open.spotify.com/playlist/1RtvZfqX47gWOTJYEWnK67?si=426c1d10df394f41
 
 - 🔭 I’m currently working on **Cyber Security Professional course**
 
