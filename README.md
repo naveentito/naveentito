@@ -6,6 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.hackread.com/wp-content/uploads/2016/03/artificially-intelligent-hackers-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveentito&label=Profile%20views&color=0e75b6&style=flat" alt="naveentito" /> </p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1RtvZfqX47gWOTJYEWnK67?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - 🔭 I’m currently working on **Cyber Security Professional course**
 
